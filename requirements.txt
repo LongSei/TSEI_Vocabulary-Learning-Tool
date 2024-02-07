@@ -1,0 +1,5 @@
+gTTS==2.5.1
+mysql_connector_repackaged==0.3.1
+nltk==3.8.1
+plotly==5.16.0
+telepot==12.7
