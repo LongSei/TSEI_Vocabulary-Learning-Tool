@@ -8,7 +8,7 @@ class EnglishUtils():
     def __init__(self) -> None:
         from datetime import datetime
         self.AMOUNT_VIDEO_EACH_SEARCH = 10
-        self.YOUTUBE_API_KEY = 'AIzaSyBu9JrZUmccASVjpIw4835exe55_Cf9FuI'
+        self.YOUTUBE_API_KEY = "GOOGLE_API_KEY"
         CREATE_TABLE_WORDS = """
         CREATE TABLE IF NOT EXISTS Words (
             word_id INT AUTO_INCREMENT PRIMARY KEY,
