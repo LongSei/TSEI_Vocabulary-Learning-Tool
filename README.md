@@ -14,6 +14,10 @@ This project is implemented base on:
 - telepot: Python framework for Telegram Bot API<br>(https://github.com/nickoala/telepot)
 - YouGlish (https://youglish.com)
 
+
+https://github.com/LongSei/TSEI_Vocabulary-Learning-Tool/assets/74856548/3be3c077-df7e-421c-8712-142298cb9bfb
+
+
 ## Installation
 ```bash
 git clone https://github.com/LongSei/FinanceAnalysisTool
